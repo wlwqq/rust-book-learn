@@ -1,0 +1,6 @@
+[package]
+name = "s39_smart_pointer4"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
